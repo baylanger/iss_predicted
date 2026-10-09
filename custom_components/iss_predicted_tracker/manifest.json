@@ -1,0 +1,14 @@
+{
+  "domain": "iss_predicted_tracker",
+  "name": "ISS Predicted Tracker",
+  "codeowners": ["@baylanger"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/baylanger/iss_predicted_tracker",
+  "issue_tracker": "https://github.com/baylanger/iss_predicted_tracker/issues",
+  "iot_class": "calculated",
+  "requirements": [
+    "skyfield>=1.45"
+  ],
+  "version": "1.0.3"
+}
